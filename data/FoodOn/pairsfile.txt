@@ -1,0 +1,2026 @@
+Parent	Child
+Root	animals
+Root	plants
+animals	mammals
+animals	reptiles
+animals	fish
+animals	birds
+animals	amphibians
+animals	Arachnida
+animals	Clitellata
+animals	Insecta
+animals	Malacostraca
+fish	Actinopterygii
+fish	Asteroidea
+fish	Chondrichthyes
+fish	Hydrozoa
+fish	Myxini
+fish	Sarcopterygii
+fish	Scyphozoa
+Scyphozoa	Jellyfish
+Scyphozoa	Lion’s Mane Jellyfish
+Scyphozoa	Moon Jellyfish
+Sarcopterygii	Coelacanth
+Sarcopterygii	Lungfish
+reptiles	Aesculapian snake
+reptiles	Agama Lizard
+reptiles	Aldabra Giant Tortoise
+reptiles	Alligator
+reptiles	Anaconda
+reptiles	Anole Lizard
+reptiles	Arafura File Snake
+reptiles	Arizona Black Rattlesnake
+reptiles	Armadillo Lizard
+reptiles	Asp
+reptiles	Australian Gecko
+reptiles	Ball Python
+reptiles	Banana Ball Python
+reptiles	Banded Water Snake
+reptiles	Basilisk Lizard
+reptiles	Bearded Dragon
+reptiles	Black Mamba
+reptiles	Blood Python
+reptiles	Blue Belly Lizard
+reptiles	Blue Iguana
+reptiles	Boomslang
+reptiles	Box Turtle
+reptiles	Brookesia Micra
+reptiles	Brown Snake
+reptiles	Brown Water Snake
+reptiles	Burmese Python
+reptiles	Bush Viper
+reptiles	Bushmaster Snake
+reptiles	Caiman
+reptiles	Caiman Lizard
+reptiles	Cantil
+reptiles	Carpet Python
+reptiles	Carpet Viper
+reptiles	Cascabel
+reptiles	Chameleon
+reptiles	Chicken Snake
+reptiles	Chinese Alligator
+reptiles	Coachwhip Snake
+reptiles	Collett’s Snake
+reptiles	Common European Adder
+reptiles	Copperhead
+reptiles	Coral Snake
+reptiles	Corn Snake
+reptiles	Cottonmouth
+reptiles	Crested Gecko
+reptiles	Crocodile
+reptiles	Death Adder
+reptiles	Desert Tortoise
+reptiles	Draco Volans Lizard
+reptiles	Eastern Diamondback Rattlesnake
+reptiles	Eastern Fence Lizard
+reptiles	Eastern Glass Lizard
+reptiles	Eastern Indigo Snake
+reptiles	Eastern Rat snake
+reptiles	Egyptian Cobra
+reptiles	Emerald Tree Monitor
+reptiles	Fer-de-lance Snake
+reptiles	Fierce Snake
+reptiles	Fox Snakes
+reptiles	Freshwater Crocodile
+reptiles	Frilled Lizard
+reptiles	Gaboon Viper
+reptiles	Galapagos Tortoise
+reptiles	Garter Snake
+reptiles	Gecko
+reptiles	Gharial
+reptiles	Gila Monster
+reptiles	Glass Lizard
+reptiles	Gopher Snake
+reptiles	Gopher Tortoise
+reptiles	Grass Snake
+reptiles	Green Anole
+reptiles	Green Mamba
+reptiles	Green Tree Python
+reptiles	Horned Adder
+reptiles	Horned Lizard
+reptiles	Horned Viper
+reptiles	Iguana
+reptiles	Indian Cobra
+reptiles	Indian Star Tortoise
+reptiles	Indigo Snake
+reptiles	Jackson’s Chameleon
+reptiles	Kenyan Sand Boa
+reptiles	King Cobra
+reptiles	King Snake
+reptiles	Kirtland’s snake
+reptiles	Komodo Dragon
+reptiles	Lazarus Lizard
+reptiles	Leaf-Tailed Gecko
+reptiles	Leopard Gecko
+reptiles	Leopard Lizard
+reptiles	Leopard Tortoise
+reptiles	Lizard
+reptiles	Mamba
+reptiles	Marine Iguana
+reptiles	Massasauga
+reptiles	Mexican Alligator Lizard
+reptiles	Mexican Mole Lizard
+reptiles	Milk Snake
+reptiles	Mojave Rattlesnake
+reptiles	Monitor Lizard
+reptiles	Mud Snake
+reptiles	Mussurana Snake
+reptiles	Nile Crocodile
+reptiles	Northern Alligator Lizard
+reptiles	Northern Water Snake
+reptiles	Painted Turtle
+reptiles	Peringuey’s Adder
+reptiles	Pied Ball Python
+reptiles	Pine Snake
+reptiles	Prairie Rattlesnake
+reptiles	Puff Adder
+reptiles	Radiated Tortoise
+reptiles	Rainbow Boa
+reptiles	Rat Snakes
+reptiles	Rattlesnake
+reptiles	Red Diamondback Rattlesnake
+reptiles	Red Tail Boa (common boa)
+reptiles	Red-Eared Slider
+reptiles	Ribbon Snake
+reptiles	River Turtle
+reptiles	Rock Python
+reptiles	Rough Green Snake
+reptiles	Rubber Boa
+reptiles	Russian Tortoise
+reptiles	Sand Lizard
+reptiles	Sand Viper
+reptiles	Satanic leaf-tailed gecko
+reptiles	Scarlet Kingsnake
+reptiles	Sea Turtle
+reptiles	Sharp-Tailed Snake
+reptiles	Skink Lizard
+reptiles	Slow Worm
+reptiles	Snake
+reptiles	Snapping Turtle
+reptiles	Snouted Cobra
+reptiles	Southern Black Racer
+reptiles	Spider Ball Python
+reptiles	Spider-Tailed Horned Viper
+reptiles	Spiny Hill Turtle
+reptiles	Spitting Cobra
+reptiles	Stiletto Snake
+reptiles	Sulcata Tortoise
+reptiles	Texas Indigo Snake
+reptiles	Texas Rat Snake
+reptiles	Texas Spiny Lizard
+reptiles	Thorny Devil
+reptiles	Timber Rattlesnake (Canebrake Rattlesnake)
+reptiles	Tortoise
+reptiles	Tuatara
+reptiles	Turtles
+reptiles	Twig Snake
+reptiles	Virgin Islands Dwarf Gecko
+reptiles	Water Dragon
+reptiles	Western Diamondback Rattlesnake
+reptiles	Western Hognose Snake
+reptiles	Western Rat Snake
+reptiles	Whiptail Lizard
+reptiles	Wood Turtle
+reptiles	Yellow Spotted Lizard
+Myxini	Hagfish
+mammals	Aardvark
+mammals	Aardwolf
+mammals	Abyssinian
+mammals	Addax
+mammals	Affenpinscher
+mammals	Afghan Hound
+mammals	African Bush Elephant
+mammals	African Civet
+mammals	African Forest Elephant
+mammals	African Palm Civet
+mammals	African Wild Dog
+mammals	Aidi
+mammals	Ainu
+mammals	Airedale Terrier
+mammals	Airedoodle
+mammals	Akbash
+mammals	Akita
+mammals	Akita Shepherd
+mammals	Alabai
+mammals	Alaskan Husky
+mammals	Alaskan Klee Kai
+mammals	Alaskan Malamute
+mammals	Alaskan Shepherd
+mammals	Alpaca
+mammals	Alpine Dachsbracke
+mammals	Alpine Goat
+mammals	Alusky
+mammals	Amazon River Dolphin (Pink Dolphin)
+mammals	American Alsatian
+mammals	American Bulldog
+mammals	American Cocker Spaniel
+mammals	American Coonhound
+mammals	American Eskimo Dog
+mammals	American Foxhound
+mammals	American Hairless Terrier
+mammals	American Leopard Hound
+mammals	American Pit Bull Terrier
+mammals	American Pygmy Goat
+mammals	American Staffordshire Terrier
+mammals	American Water Spaniel
+mammals	Amur Leopard
+mammals	Anatolian Shepherd Dog
+mammals	Angora Ferret
+mammals	Angora Goat
+mammals	Anteater
+mammals	Antelope
+mammals	Ape
+mammals	Appenzeller Dog
+mammals	Apple Head Chihuahua
+mammals	Arctic Fox
+mammals	Arctic Hare
+mammals	Arctic Wolf
+mammals	Armadillo
+mammals	Asian Elephant
+mammals	Asian Palm Civet
+mammals	Asiatic Black Bear
+mammals	Aurochs
+mammals	Aussiedoodle
+mammals	Aussiedor
+mammals	Australian Bulldog
+mammals	Australian Cattle Dog
+mammals	Australian Kelpie Dog
+mammals	Australian Labradoodle
+mammals	Australian Mist
+mammals	Australian Retriever
+mammals	Australian Shepherd
+mammals	Australian Terrier
+mammals	Aye Aye
+mammals	Babirusa
+mammals	Baboon
+mammals	Bactrian Camel
+mammals	Badger
+mammals	Baiji
+mammals	Baleen Whale
+mammals	Balinese
+mammals	Balkan Lynx
+mammals	Banded Palm Civet
+mammals	Bandicoot
+mammals	Barbet
+mammals	Basenji Dog
+mammals	Bassador
+mammals	Basset Fauve de Bretagne
+mammals	Basset Hound
+mammals	Bassetoodle
+mammals	Bat
+mammals	Bavarian Mountain Hound
+mammals	Bea-Tzu
+mammals	Beabull
+mammals	Beagador
+mammals	Beagle
+mammals	Beagle Shepherd
+mammals	Beaglier
+mammals	Beago
+mammals	Bear
+mammals	Bearded Collie
+mammals	Beaski
+mammals	Beauceron
+mammals	Beaver
+mammals	Bedlington Terrier
+mammals	Beefalo
+mammals	Belgian Shepherd
+mammals	Belgian Tervuren
+mammals	Bengal Tiger
+mammals	Bergamasco
+mammals	Berger Picard
+mammals	Bernese Mountain Dog
+mammals	Bernese Shepherd
+mammals	Bichon Frise
+mammals	Bichpoo
+mammals	Biewer Terrier
+mammals	Bighorn Sheep
+mammals	Bilby
+mammals	Binturong
+mammals	Birman
+mammals	Bison
+mammals	Black And Tan Coonhound
+mammals	Black Rhinoceros
+mammals	Black Russian Terrier
+mammals	Black-Footed Ferret
+mammals	Bloodhound
+mammals	Blue Lacy Dog
+mammals	Blue Picardy Spaniel
+mammals	Blue Whale
+mammals	Bluetick Coonhound
+mammals	Bobcat
+mammals	Boggle
+mammals	Boglen Terrier
+mammals	Bolognese Dog
+mammals	Bombay
+mammals	Bongo
+mammals	Bonobo
+mammals	Borador
+mammals	Border Collie
+mammals	Border Terrier
+mammals	Bordoodle
+mammals	Borkie
+mammals	Bornean Orang-utan
+mammals	Borneo Elephant
+mammals	Boston Terrier
+mammals	Bottlenose Dolphin
+mammals	Bouvier Des Flandres
+mammals	Bowhead Whale
+mammals	Boxador
+mammals	Boxer Dog
+mammals	Boxerdoodle
+mammals	Boxsky
+mammals	Boxweiler
+mammals	Boykin Spaniel
+mammals	Brazilian Terrier
+mammals	British Timber
+mammals	Brittany
+mammals	Brown Bear
+mammals	Brown Hyena
+mammals	Brug
+mammals	Brussels Griffon
+mammals	Buffalo
+mammals	Bull Terrier
+mammals	Bulldog
+mammals	Bullmastiff
+mammals	Burmese
+mammals	Bush Baby
+mammals	Cactus Mouse
+mammals	Cairn Terrier
+mammals	Camel
+mammals	Canaan Dog
+mammals	Canada Lynx
+mammals	Canadian Eskimo Dog
+mammals	Canadian Horse
+mammals	Cane Corso
+mammals	Cape Lion
+mammals	Capybara
+mammals	Caracal
+mammals	Caribou
+mammals	Carolina Dog
+mammals	Cashmere Goat
+mammals	Cat
+mammals	Catahoula Leopard
+mammals	Catalan Sheepdog
+mammals	Cava Tzu
+mammals	Cavador
+mammals	Cavalier King Charles Spaniel
+mammals	Cesky Fousek
+mammals	Cesky Terrier
+mammals	Chamois
+mammals	Chartreux
+mammals	Cheagle
+mammals	Cheetah
+mammals	Chesapeake Bay Retriever
+mammals	Chihuahua
+mammals	Chimpanzee
+mammals	Chinchilla
+mammals	Chinese Crested Dog
+mammals	Chinese Shar-Pei
+mammals	Chinook
+mammals	Chipmunk
+mammals	Chipoo
+mammals	Chiweenie
+mammals	Chorkie
+mammals	Chow Chow
+mammals	Chow Shepherd
+mammals	Cinnamon Ferret
+mammals	Clouded Leopard
+mammals	Clumber Spaniel
+mammals	Coati
+mammals	Cockalier
+mammals	Cocker Spaniel
+mammals	Collared Peccary
+mammals	Collie
+mammals	Corgidor
+mammals	Corgipoo
+mammals	Corkie
+mammals	Corman Shepherd
+mammals	Corn Rex Cat (Cornish Rex)
+mammals	Coton de Tulear
+mammals	Cotton-top Tamarin
+mammals	Cougar
+mammals	Cow
+mammals	Coyote
+mammals	Crab-Eating Macaque
+mammals	Crabeater Seal
+mammals	Cross Fox
+mammals	Cross River Gorilla
+mammals	Curly Coated Retriever
+mammals	Cuscus
+mammals	Czechoslovakian Wolfdog
+mammals	Dachsador
+mammals	Dachshund
+mammals	Dalmadoodle
+mammals	Dalmador
+mammals	Dalmatian
+mammals	Dapple Dachshund
+mammals	Darwin’s fox
+mammals	Deer
+mammals	Deer Head Chihuahua
+mammals	Deutsche Bracke
+mammals	Devon Rex
+mammals	Dhole
+mammals	Dik-Dik
+mammals	Dingo
+mammals	Doberman Pinscher
+mammals	Dog
+mammals	Dogo Argentino
+mammals	Dogue De Bordeaux
+mammals	Dolphin
+mammals	Donkey
+mammals	Dorgi
+mammals	Dorkie
+mammals	Dormouse
+mammals	Double Doodle
+mammals	Douc
+mammals	Doxiepoo
+mammals	Doxle
+mammals	Drever
+mammals	Dugong
+mammals	Dunker
+mammals	Dusky Dolphin
+mammals	Dwarf Hamster
+mammals	Eastern Barred Bandicoot
+mammals	Eastern Chipmunk
+mammals	Eastern Gorilla
+mammals	Eastern Lowland Gorilla
+mammals	Eastern Woodrat
+mammals	Echidna
+mammals	Egyptian Mau
+mammals	Eland
+mammals	Elephant
+mammals	Elephant Seal
+mammals	Elephant Shrew
+mammals	Elk
+mammals	Emperor Tamarin
+mammals	English Bulldog
+mammals	English Cocker Spaniel
+mammals	English Cream Golden Retriever
+mammals	English Foxhound
+mammals	English Pointer
+mammals	English Setter
+mammals	English Shepherd
+mammals	English Springer Spaniel
+mammals	Entlebucher Mountain Dog
+mammals	Epagneul Pont Audemer
+mammals	Ermine
+mammals	Eskimo Dog
+mammals	Eskipoo
+mammals	Estrela Mountain Dog
+mammals	Eurasian Beaver
+mammals	Eurasian Lynx
+mammals	Eurasian Wolf
+mammals	European Polecat
+mammals	European Wildcat
+mammals	Evening Bat
+mammals	Fallow deer
+mammals	False Killer Whale
+mammals	Feist
+mammals	Fennec Fox
+mammals	Ferret
+mammals	Field Spaniel
+mammals	Fila Brasileiro
+mammals	Fin Whale
+mammals	Finnish Spitz
+mammals	Fisher Cat
+mammals	Fishing Cat
+mammals	Flat-Coated Retriever
+mammals	Florida Panther
+mammals	Flying Lemur
+mammals	Flying Squirrel
+mammals	Formosan Mountain Dog
+mammals	Fossa
+mammals	Fox
+mammals	Fox Squirrel
+mammals	Fox Terrier
+mammals	French Bulldog
+mammals	Frenchton
+mammals	Frengle
+mammals	Fruit Bat
+mammals	Fur Seal
+mammals	Gazelle
+mammals	Genet
+mammals	Geoffroys Tamarin
+mammals	Gerberian Shepsky
+mammals	Gerbil
+mammals	German Pinscher
+mammals	German Shepherd Guide
+mammals	German Sheppit
+mammals	German Sheprador
+mammals	German Shorthaired Pointer
+mammals	German Spitz
+mammals	Giant Armadillo
+mammals	Giant Panda Bear
+mammals	Giant Schnauzer
+mammals	Giant Schnoodle
+mammals	Gibbon
+mammals	Giraffe
+mammals	Glechon
+mammals	Glen Of Imaal Terrier
+mammals	Goat
+mammals	Goberian
+mammals	Goldador
+mammals	Golden Dox
+mammals	Golden Lion Tamarin
+mammals	Golden Newfie
+mammals	Golden Pyrenees
+mammals	Golden Retriever
+mammals	Golden Saint
+mammals	Golden Shepherd
+mammals	Golden-Crowned Flying Fox
+mammals	Goldendoodle
+mammals	Gopher
+mammals	Gordon Setter
+mammals	Gorilla
+mammals	Grasshopper Mouse
+mammals	Gray Fox
+mammals	Great Dane
+mammals	Great Danoodle
+mammals	Great Pyrenees
+mammals	Greater Swiss Mountain Dog
+mammals	Greenland Dog
+mammals	Grey Mouse Lemur
+mammals	Grey Seal
+mammals	Greyhound
+mammals	Griffonshire
+mammals	Grizzly Bear
+mammals	Groenendael
+mammals	Groundhog (Woodchuck)
+mammals	Guinea Pig
+mammals	Hamster
+mammals	Harbor Seal
+mammals	Hare
+mammals	Harp Seal
+mammals	Harrier
+mammals	Havanese
+mammals	Havashire
+mammals	Hawaiian Monk Seal
+mammals	Hedgehog
+mammals	Highland Cattle
+mammals	Himalayan
+mammals	Hippopotamus
+mammals	Hoary Bat
+mammals	Hokkaido
+mammals	Honduran White Bat
+mammals	Honey Badger
+mammals	Hooded Seal
+mammals	Horgi
+mammals	Horse
+mammals	Howler Monkey
+mammals	Human
+mammals	Humpback Whale
+mammals	Huntaway
+mammals	Huskador
+mammals	Huskita
+mammals	Husky
+mammals	Husky Jack
+mammals	Huskydoodle
+mammals	Hyena
+mammals	Ibex
+mammals	Ibizan Hound
+mammals	Icelandic Sheepdog
+mammals	Impala
+mammals	Indian Elephant
+mammals	Indian Giant Squirrel
+mammals	Indian Palm Squirrel
+mammals	Indian Rhinoceros
+mammals	Indochinese Tiger
+mammals	Indri
+mammals	Irish Setter
+mammals	Irish Terrier
+mammals	Irish Water Spaniel
+mammals	Irish WolfHound
+mammals	Italian Greyhound
+mammals	Jack Russell
+mammals	Jackabee
+mammals	Jackal
+mammals	Jackrabbit
+mammals	Jaguar
+mammals	Jaguarundi Cat
+mammals	Japanese Chin
+mammals	Japanese Macaque
+mammals	Japanese Spitz
+mammals	Japanese Squirrel
+mammals	Japanese Terrier
+mammals	Javan Rhinoceros
+mammals	Javanese
+mammals	Jerboa
+mammals	Kai Ken
+mammals	Kangal
+mammals	Kangaroo
+mammals	Kangaroo Rat
+mammals	Keeshond
+mammals	Kerry Blue Terrier
+mammals	Key Deer
+mammals	Kiko Goat
+mammals	Killer Whale
+mammals	Kinder Goat
+mammals	King Shepherd
+mammals	Kinkajou
+mammals	Kishu
+mammals	Kit Fox
+mammals	Koala
+mammals	Kodkod
+mammals	Kooikerhondje
+mammals	Koolie
+mammals	Kudu
+mammals	Kuvasz
+mammals	Labahoula
+mammals	Labmaraner
+mammals	Labradane
+mammals	Labradoodle
+mammals	Labrador Retriever
+mammals	Labraheeler
+mammals	Lakeland Terrier
+mammals	LaMancha Goat
+mammals	Lancashire Heeler
+mammals	Lapponian Herder
+mammals	Lemming
+mammals	Lemur
+mammals	Leonberger
+mammals	Leopard
+mammals	Leopard Cat
+mammals	Leopard Seal
+mammals	Lhasa Apso
+mammals	Lhasapoo
+mammals	Liger
+mammals	Lion
+mammals	Little Brown Bat
+mammals	Llama
+mammals	Long-Haired Rottweiler
+mammals	Lowchen
+mammals	Lynx
+mammals	Macaque
+mammals	Mackenzie Wolf
+mammals	Maine Coon
+mammals	Malayan Civet
+mammals	Malayan Tiger
+mammals	Malteagle
+mammals	Maltese
+mammals	Maltese Shih Tzu
+mammals	Manatee
+mammals	Manchester Terrier
+mammals	Mandrill
+mammals	Maned Wolf
+mammals	Marble Fox
+mammals	Markhor
+mammals	Marmoset
+mammals	Marmot
+mammals	Masked Palm Civet
+mammals	Mastador
+mammals	Mastiff
+mammals	Meagle
+mammals	Meerkat
+mammals	Mexican Free-Tailed Bat
+mammals	Miki
+mammals	Mini Labradoodle
+mammals	Miniature Bull Terrier
+mammals	Miniature Husky
+mammals	Miniature Pinscher
+mammals	Mink
+mammals	Minke Whale
+mammals	Mole
+mammals	Mongoose
+mammals	Mongrel
+mammals	Monkey
+mammals	Moose
+mammals	Morkie
+mammals	Moscow Watchdog
+mammals	Mountain Cur
+mammals	Mountain Feist
+mammals	Mountain Gorilla
+mammals	Mountain Lion
+mammals	Mouse
+mammals	Mudi
+mammals	Mule
+mammals	Muntjac
+mammals	Muskox
+mammals	Muskrat
+mammals	Naked Mole Rat
+mammals	Narwhal
+mammals	Neanderthal
+mammals	Neapolitan Mastiff
+mammals	Nebelung
+mammals	Newfoundland
+mammals	Newfypoo
+mammals	Nigerian Goat
+mammals	Nilgai
+mammals	Norfolk Terrier
+mammals	North American Black Bear
+mammals	Northern Fur Seal
+mammals	Northern Inuit Dog
+mammals	Norwegian Buhund
+mammals	Norwegian Elkhound
+mammals	Norwegian Forest
+mammals	Norwegian Lundehund
+mammals	Norwich Terrier
+mammals	Nova Scotia Duck Tolling Retriever
+mammals	Nubian Goat
+mammals	Numbat
+mammals	Nyala
+mammals	Ocelot
+mammals	Okapi
+mammals	Old English Sheepdog
+mammals	Olive Baboon
+mammals	Opossum
+mammals	Orang-utan
+mammals	Otter
+mammals	Otterhound
+mammals	Ox
+mammals	Pademelon
+mammals	Panther
+mammals	Papillon
+mammals	Parson Russell Terrier
+mammals	Patas Monkey
+mammals	Patterdale Terrier
+mammals	Peagle
+mammals	Pekingese
+mammals	Pembroke Welsh Corgi
+mammals	Pere Davids Deer
+mammals	Perro De Presa Canario
+mammals	Persian
+mammals	Peruvian Inca Orchid
+mammals	Petit Basset Griffon Vendéen
+mammals	Petite Goldendoodle
+mammals	Pied Tamarin
+mammals	Pig
+mammals	Pika
+mammals	Pine Marten
+mammals	Pink Fairy Armadillo
+mammals	Pit Bull
+mammals	Pitador
+mammals	Pitsky
+mammals	Platypus
+mammals	Pocket Beagle
+mammals	Pocket Pitbull
+mammals	Pointer
+mammals	Polar Bear
+mammals	Polecat
+mammals	Polish Lowland Sheepdog
+mammals	Pomchi
+mammals	Pomeagle
+mammals	Pomsky
+mammals	Poochon
+mammals	Poodle
+mammals	Poogle
+mammals	Porcupine
+mammals	Porpoise
+mammals	Possum
+mammals	Potoroo
+mammals	Prairie Dog
+mammals	Proboscis Monkey
+mammals	Pronghorn
+mammals	Pudelpointer
+mammals	Pug
+mammals	Puggle
+mammals	Pugshire
+mammals	Puma
+mammals	Pumi
+mammals	Pygmy Hippopotamus
+mammals	Pygmy Marmoset (Finger Monkey)
+mammals	Pygora Goat
+mammals	Pyrador
+mammals	Pyredoodle
+mammals	Quagga
+mammals	Quokka
+mammals	Quoll
+mammals	Rabbit
+mammals	Raccoon
+mammals	Raccoon Dog
+mammals	Ragamuffin
+mammals	Ragdoll
+mammals	Raggle
+mammals	Rat
+mammals	Rat Terrier
+mammals	Red Fox
+mammals	Red Panda
+mammals	Red Squirrel
+mammals	Red Wolf
+mammals	Red-handed Tamarin
+mammals	Redbone Coonhound
+mammals	Reindeer
+mammals	Rhinoceros
+mammals	River Otter
+mammals	Rock Hyrax
+mammals	Rodents
+mammals	Roe Deer
+mammals	Rottsky
+mammals	Rottweiler
+mammals	Russell Terrier
+mammals	Russian Bear Dog
+mammals	Russian Blue
+mammals	Saanen Goat
+mammals	Saarloos Wolfdog
+mammals	Saber-Toothed Tiger
+mammals	Sable
+mammals	Sable Black German Shepherd
+mammals	Sable Ferret
+mammals	Saiga
+mammals	Saint Bernard
+mammals	Saint Shepherd
+mammals	Saluki
+mammals	Sambar
+mammals	Samoyed
+mammals	Saola
+mammals	Savanna Goat
+mammals	Schipperke
+mammals	Schneagle
+mammals	Scimitar-horned Oryx
+mammals	Scottish Terrier
+mammals	Sea Lion
+mammals	Sea Otter
+mammals	Seal
+mammals	Sealyham Terrier
+mammals	Sei Whale
+mammals	Serval
+mammals	Sheep
+mammals	Shepadoodle
+mammals	Shepkita
+mammals	Shepweiler
+mammals	Shiba Inu
+mammals	Shih Poo
+mammals	Shih Tzu
+mammals	Shollie
+mammals	Shrew
+mammals	Siamese
+mammals	Siberian
+mammals	Siberian Husky
+mammals	Siberian Ibex
+mammals	Siberian Retriever
+mammals	Siberian Tiger
+mammals	Siberpoo
+mammals	Silky Terrier
+mammals	Silver Labrador
+mammals	Skunk
+mammals	Skye Terrier
+mammals	Sloth
+mammals	Smooth Fox Terrier
+mammals	Snorkie
+mammals	Snow Leopard
+mammals	Snowshoe
+mammals	Snowshoe Hare
+mammals	Somali
+mammals	South China Tiger
+mammals	Spanador
+mammals	Spanish Goat
+mammals	Spanish Mastiff
+mammals	Spectacled Bear
+mammals	Sperm Whale
+mammals	Spider Monkey
+mammals	Spinone Italiano
+mammals	Springador
+mammals	Springbok
+mammals	Springerdoodle
+mammals	Squirrel
+mammals	Squirrel Monkey
+mammals	Sri Lankan Elephant
+mammals	Stabyhoun
+mammals	Staffordshire Bull Terrier
+mammals	Standard Schnauzer
+mammals	Star-nosed mole
+mammals	Steller’s Sea Cow
+mammals	Stoat
+mammals	Striped Hyena
+mammals	Sugar Glider
+mammals	Sumatran Elephant
+mammals	Sumatran Orang-utan
+mammals	Sumatran Rhinoceros
+mammals	Sumatran Tiger
+mammals	Sun Bear
+mammals	Swedish Vallhund
+mammals	Syrian Hamster
+mammals	Taco Terrier
+mammals	Takin
+mammals	Tamaskan
+mammals	Tapanuli Orang-utan
+mammals	Tapir
+mammals	Tarsier
+mammals	Tasmanian Devil
+mammals	Tasmanian Tiger
+mammals	Teddy Bear Hamster
+mammals	Teddy Roosevelt Terrier
+mammals	Tenterfield Terrier
+mammals	Terrier
+mammals	Texas Heeler
+mammals	Thai Ridgeback
+mammals	Tibetan Fox
+mammals	Tibetan Mastiff
+mammals	Tibetan Spaniel
+mammals	Tibetan Terrier
+mammals	Tiffany
+mammals	Tiger
+mammals	Torkie
+mammals	Toy Fox Terrier
+mammals	Toy Poodle
+mammals	Transylvanian Hound
+mammals	Tree Kangaroo
+mammals	Treeing Tennessee Brindle
+mammals	Treeing Walker Coonhound
+mammals	Turkish Angora
+mammals	Uakari
+mammals	Uinta Ground Squirrel
+mammals	Unau (Linnaeus’s Two-Toed Sloth)
+mammals	Utonagan
+mammals	Vampire Bat
+mammals	Vaquita
+mammals	Vervet Monkey
+mammals	Vicuña
+mammals	Vizsla
+mammals	Volpino Italiano
+mammals	Wallaby
+mammals	Walrus
+mammals	Warthog
+mammals	Water Buffalo
+mammals	Water Vole
+mammals	Weasel
+mammals	Weimaraner
+mammals	Weimardoodle
+mammals	Welsh Corgi
+mammals	Welsh Terrier
+mammals	West Highland Terrier
+mammals	Western Gorilla
+mammals	Western Lowland Gorilla
+mammals	Westiepoo
+mammals	Wheaten Terrier
+mammals	Whippet
+mammals	White Ferret / Albino Ferrets
+mammals	White Rhinoceros
+mammals	White Tiger
+mammals	White-Faced Capuchin
+mammals	White-tail deer
+mammals	Whoodle
+mammals	Wild Boar
+mammals	Wildebeest
+mammals	Wire Fox Terrier
+mammals	Wirehaired Pointing Griffon
+mammals	Wolf
+mammals	Wolverine
+mammals	Wombat
+mammals	Wood Bison
+mammals	Woodrat
+mammals	Woolly Mammoth
+mammals	Woolly Monkey
+mammals	Xerus
+mammals	Xoloitzcuintli
+mammals	Yak
+mammals	Yakutian Laika
+mammals	Yoranian
+mammals	Yorkie Bichon
+mammals	Yorkie-poo
+mammals	Yorkshire Terrier
+mammals	Zebra
+mammals	Zebu
+mammals	Zonkey
+mammals	Zorse
+mammals	Zuchon
+Malacostraca	Christmas Island Red Crab
+Malacostraca	Crab
+Malacostraca	Fiddler Crab
+Malacostraca	Ghost Crab
+Malacostraca	Hermit Crab
+Malacostraca	Horseshoe Crab
+Malacostraca	Jonah Crab
+Malacostraca	King Crab
+Malacostraca	Krill
+Malacostraca	Rock Crab
+Malacostraca	Sand Crab
+Malacostraca	Stone Crab
+Malacostraca	Woodlouse
+Malacostraca	Yeti Crab
+Insecta	Ambrosia Beetle
+Insecta	American Cockroach
+Insecta	Ant
+Insecta	Armyworm
+Insecta	Asian Cockroach
+Insecta	Asian Giant Hornet
+Insecta	Assassin Bug
+Insecta	Australian Cockroach
+Insecta	Bed Bugs
+Insecta	Bee
+Insecta	Beetle
+Insecta	Biscuit Beetle
+Insecta	Black Wasp
+Insecta	Blister Beetle
+Insecta	Brown-banded Cockroach
+Insecta	Bumblebee
+Insecta	Butterfly
+Insecta	Camel Cricket
+Insecta	Carpenter Ant
+Insecta	Caterpillar
+Insecta	Cicada
+Insecta	Cockroach
+Insecta	Common Furniture Beetle
+Insecta	Cricket
+Insecta	Cuban Cockroach
+Insecta	Death’s Head Cockroach
+Insecta	Deathwatch Beetle
+Insecta	Desert Locust
+Insecta	Devils Coach Horse Beetle
+Insecta	Dragonfly
+Insecta	Dubia Cockroach
+Insecta	Dung Beetle
+Insecta	Earwig
+Insecta	Firefly
+Insecta	Flea
+Insecta	Florida Woods Cockroach
+Insecta	Fly
+Insecta	Fruit Fly
+Insecta	German Cockroach
+Insecta	Glow Worm
+Insecta	Gnat
+Insecta	Grasshopper
+Insecta	Hercules Beetle
+Insecta	Honey Bee
+Insecta	Horsefly
+Insecta	Housefly
+Insecta	Imperial Moth
+Insecta	Insect
+Insecta	Insects
+Insecta	Japanese Beetle
+Insecta	Ladybug
+Insecta	Locust
+Insecta	Madagascar Hissing Cockroach
+Insecta	Maggot
+Insecta	Mayfly
+Insecta	Mealybug
+Insecta	Mole Cricket
+Insecta	Monarch Butterfly
+Insecta	Mosquito
+Insecta	Moth
+Insecta	No See Ums
+Insecta	Peacock Butterfly
+Insecta	Pennsylvania Wood Cockroach
+Insecta	Polyphemus moth
+Insecta	Pond Skater
+Insecta	Praying Mantis
+Insecta	Purple Emperor Butterfly
+Insecta	Puss Moth
+Insecta	Smokybrown Cockroach
+Insecta	Spider Wasp
+Insecta	Spotted Lanternfly
+Insecta	Squash Beetle
+Insecta	Stag Beetle
+Insecta	Stick Insect
+Insecta	Tarantula Hawk
+Insecta	Termite
+Insecta	Tiger Beetle
+Insecta	Tiger Moth
+Insecta	Tsetse Fly
+Insecta	Wasp
+Insecta	White Butterfly
+Hydrozoa	Freshwater Jellyfish
+Hydrozoa	Immortal Jellyfish
+Hydrozoa	Man of War Jellyfish
+Clitellata	Earthworm
+Clitellata	Leech
+Clitellata	Worm
+Chondrichthyes	Basking Shark
+Chondrichthyes	Blue Shark
+Chondrichthyes	Bonnethead Shark
+Chondrichthyes	Bull Shark
+Chondrichthyes	Chimaera
+Chondrichthyes	Cookiecutter Shark
+Chondrichthyes	Frilled Shark
+Chondrichthyes	Goblin Shark
+Chondrichthyes	Great White Shark
+Chondrichthyes	Greenland Shark
+Chondrichthyes	Grey Reef Shark
+Chondrichthyes	Hammerhead Shark
+Chondrichthyes	Horn Shark
+Chondrichthyes	Manta Ray
+Chondrichthyes	Megalodon
+Chondrichthyes	Megamouth Shark
+Chondrichthyes	Nurse Shark
+Chondrichthyes	Porbeagle Shark
+Chondrichthyes	Reef Shark
+Chondrichthyes	Salmon Shark
+Chondrichthyes	Sand Tiger Shark
+Chondrichthyes	Sawfish
+Chondrichthyes	Shark
+Chondrichthyes	Sixgill shark
+Chondrichthyes	Skate Fish
+Chondrichthyes	Sleeper Shark
+Chondrichthyes	Spinner Shark
+Chondrichthyes	Spiny Dogfish
+Chondrichthyes	Stingray
+Chondrichthyes	Tiger Shark
+Chondrichthyes	Viper shark (dogfish)
+Chondrichthyes	Whale Shark
+Chondrichthyes	Zebra Shark
+birds	Adelie Penguin
+birds	African Grey Parrot
+birds	African Penguin
+birds	Albatross
+birds	Amazon Parrot
+birds	American Robin
+birds	Avocet
+birds	Bald Eagle
+birds	Barn Owl
+birds	Barn Swallow
+birds	Barred Owl
+birds	Bearded Vulture
+birds	Bird
+birds	Bird Of Paradise
+birds	Blackpoll Warbler
+birds	Blue grosbeak
+birds	Blue Jay
+birds	Bobolink
+birds	Booby
+birds	Budgerigar
+birds	Burrowing Owl
+birds	Carolina Parakeet
+birds	Cassowary
+birds	Chickadee
+birds	Chicken
+birds	Chinese Geese
+birds	Chinstrap Penguin
+birds	Cinereous Vulture
+birds	Cockatiel
+birds	Cockatoo
+birds	Common Buzzard
+birds	Common Loon
+birds	Common Raven
+birds	Cooper’s Hawk
+birds	Crane
+birds	Crested Penguin
+birds	Crow
+birds	Cuckoo
+birds	Dodo
+birds	Duck
+birds	Dunnock
+birds	Eagle
+birds	Eastern Bluebird
+birds	Eastern Phoebe
+birds	Eclectus Parrot
+birds	Egyptian Goose
+birds	Elegant Tern
+birds	Emperor Penguin
+birds	Emu
+birds	Eurasian Nuthatch
+birds	European Bee-Eater
+birds	European Robin
+birds	Falcon
+birds	Ferruginous Hawk
+birds	Flamingo
+birds	Frigatebird
+birds	Galapagos Penguin
+birds	Gentoo Penguin
+birds	Golden Masked Owl
+birds	Golden Oriole
+birds	Goose
+birds	Gouldian Finch
+birds	Great Blue Heron
+birds	Great Crested Flycatcher
+birds	Great Egret
+birds	Green Bee-Eater
+birds	Griffon Vulture
+birds	Grouse
+birds	Guinea Fowl
+birds	Harpy Eagle
+birds	Harris Hawk
+birds	Hawaiian Crow
+birds	Heron
+birds	Honey Buzzard
+birds	Hoopoe
+birds	Hornbill
+birds	House Finch
+birds	House Sparrow
+birds	House wren
+birds	Humboldt Penguin
+birds	Hummingbird
+birds	Ibis
+birds	Ivory-billed woodpecker
+birds	Jacana
+birds	Jackdaw
+birds	Kakapo
+birds	Keel-Billed Toucan
+birds	Kestrel
+birds	King Penguin
+birds	King Vulture
+birds	Kingfisher
+birds	Kiwi
+birds	Kookaburra
+birds	Kori Bustard
+birds	Lappet-faced Vulture
+birds	Little Penguin
+birds	Long-Eared Owl
+birds	Long-Tailed Tit
+birds	Lorikeet
+birds	Lyrebird
+birds	Macaroni Penguin
+birds	Macaw
+birds	Magellanic Penguin
+birds	Magpie
+birds	Mallard
+birds	Marabou Stork
+birds	Mississippi Kite
+birds	Moorhen
+birds	Mountain Bluebird
+birds	Mourning Dove
+birds	Myna Bird
+birds	Nicobar pigeon
+birds	Nightingale
+birds	Northern Cardinal
+birds	Orange-Crowned Warbler
+birds	Ortolan Bunting
+birds	Ostrich
+birds	Owl
+birds	Parakeet
+birds	Parrot
+birds	Parrotlet
+birds	Peacock
+birds	Pelican
+birds	Penguin
+birds	Peregrine Falcon
+birds	Pesquet’s Parrot (Dracula Parrot)
+birds	Pheasant
+birds	Pigeon
+birds	Pileated Woodpecker
+birds	Potoo
+birds	Puffin
+birds	Purple Finch
+birds	Quail
+birds	Quetzal
+birds	Red Finch
+birds	Red-Headed Vulture
+birds	Red-winged blackbird
+birds	Ringed Kingfisher
+birds	Robin
+birds	Rockhopper Penguin
+birds	Rooster
+birds	Rose-breasted Grosbeak
+birds	Roseate Spoonbill
+birds	Royal Penguin
+birds	Ruby-Throated Hummingbird
+birds	Ruddy Turnstone
+birds	Scarlet Macaw
+birds	Sea Eagle
+birds	Seagull
+birds	Senegal Parrot
+birds	Shoebill Stork
+birds	Silkie Chicken
+birds	Snowy Owl
+birds	Song Sparrow
+birds	Song Thrush
+birds	Sparrow
+birds	Sparrowhawk
+birds	Spixs Macaw
+birds	Stork
+birds	Swan
+birds	Tawny Owl
+birds	Thrush
+birds	Toucan
+birds	Tree swallow
+birds	Treecreeper
+birds	Tropicbird
+birds	Turkey
+birds	Uguisu
+birds	Umbrellabird
+birds	Ural owl
+birds	Vulture
+birds	Wandering Albatross
+birds	White-Tailed Eagle
+birds	Whooping Crane
+birds	Willow Warbler
+birds	Woodpecker
+birds	Yellow-Eyed Penguin
+birds	Zebra Finch
+Asteroidea	Starfish
+Arachnida	American Dog Tick
+Arachnida	Arizona Bark Scorpion
+Arachnida	Banana Spider
+Arachnida	Black Widow Spider
+Arachnida	Brown Dog Tick
+Arachnida	Camel Spider
+Arachnida	Common House Spider
+Arachnida	Crab Spider
+Arachnida	Deer Tick
+Arachnida	Dog Tick
+Arachnida	False Widow Spider
+Arachnida	Huntsman Spider
+Arachnida	Joro Spider
+Arachnida	Jumping Spider
+Arachnida	Lone Star Tick
+Arachnida	Orb Weaver
+Arachnida	Peacock Spider
+Arachnida	Red Knee Tarantula
+Arachnida	Redback Spider
+Arachnida	Scorpion
+Arachnida	Tick
+Arachnida	Vinegaroon
+Arachnida	Wolf Spider
+Arachnida	Wood Tick
+Arachnida	Woodlouse Spider
+Arachnida	Writing Spider
+Arachnida	Yellow Sac Spider
+amphibians	African Bullfrog
+amphibians	African Clawed Frog
+amphibians	African Tree Toad
+amphibians	American Toad
+amphibians	Axolotl
+amphibians	Bullfrog
+amphibians	Burrowing Frog
+amphibians	Caecilian
+amphibians	Common Frog
+amphibians	Common Toad
+amphibians	Darwin’s Frog
+amphibians	Desert Rain Frog
+amphibians	Edible Frog
+amphibians	Fire salamander
+amphibians	Fire-Bellied Toad
+amphibians	Frog
+amphibians	Giant Salamander
+amphibians	Glass Frog
+amphibians	Goliath Frog
+amphibians	Gray Tree Frog
+amphibians	Green Frog
+amphibians	Green Tree Frog
+amphibians	Hellbender
+amphibians	Horned Frog
+amphibians	Leopard Frog
+amphibians	Mantella Frog
+amphibians	Marine Toad
+amphibians	Marsh Frog
+amphibians	Monte Iberia Eleuth
+amphibians	Mudpuppy
+amphibians	Natterjack
+amphibians	Newt
+amphibians	Olm
+amphibians	Poison Dart Frog
+amphibians	Pool Frog
+amphibians	Red-Eyed Tree Frog
+amphibians	Salamander
+amphibians	Scrotum Frog
+amphibians	Spadefoot Toad
+amphibians	Striped Rocket Frog
+amphibians	Tiger Salamander
+amphibians	Tree Frog
+amphibians	Wood Frog
+amphibians	Wyoming Toad
+Actinopterygii	Albacore Tuna
+Actinopterygii	Alligator Gar
+Actinopterygii	Anchovies
+Actinopterygii	Angelfish
+Actinopterygii	Anglerfish
+Actinopterygii	Arapaima
+Actinopterygii	Barb
+Actinopterygii	Barracuda
+Actinopterygii	Barramundi Fish
+Actinopterygii	Beluga Sturgeon
+Actinopterygii	Betta Fish (Siamese Fighting Fish)
+Actinopterygii	Bichir
+Actinopterygii	Black Marlin
+Actinopterygii	Blobfish
+Actinopterygii	Bluefin Tuna
+Actinopterygii	Bonito Fish
+Actinopterygii	Bowfin
+Actinopterygii	Boxfish
+Actinopterygii	Butterfly Fish
+Actinopterygii	Carp
+Actinopterygii	Chinese Paddlefish
+Actinopterygii	Cichlid
+Actinopterygii	Clownfish
+Actinopterygii	Codfish
+Actinopterygii	Crappie Fish
+Actinopterygii	Crucian Carp
+Actinopterygii	Danios
+Actinopterygii	Discus
+Actinopterygii	Dragonfish
+Actinopterygii	Drum Fish
+Actinopterygii	Eel
+Actinopterygii	Electric Eel
+Actinopterygii	Escolar
+Actinopterygii	Fangtooth
+Actinopterygii	Florida Gar
+Actinopterygii	Flounder
+Actinopterygii	Flowerhorn Fish
+Actinopterygii	Fluke Fish (summer flounder)
+Actinopterygii	Flying Fish
+Actinopterygii	Freshwater Eel
+Actinopterygii	Frogfish
+Actinopterygii	Gar
+Actinopterygii	Garden Eel
+Actinopterygii	Goldfish
+Actinopterygii	Grass Carp
+Actinopterygii	Grouper
+Actinopterygii	Guppy
+Actinopterygii	Haddock
+Actinopterygii	Hardhead Catfish
+Actinopterygii	Herring
+Actinopterygii	Keta Salmon
+Actinopterygii	Koi Fish
+Actinopterygii	Lake Sturgeon
+Actinopterygii	Lawnmower Blenny
+Actinopterygii	Lionfish
+Actinopterygii	Lizardfish
+Actinopterygii	Loach
+Actinopterygii	Longnose Gar
+Actinopterygii	Mekong Giant Catfish
+Actinopterygii	Milkfish
+Actinopterygii	Molly
+Actinopterygii	Monkfish
+Actinopterygii	Moray Eel
+Actinopterygii	Oscar Fish
+Actinopterygii	Oyster Toadfish
+Actinopterygii	Paddlefish
+Actinopterygii	Parrotfish
+Actinopterygii	Pike Fish
+Actinopterygii	Piranha
+Actinopterygii	Pufferfish
+Actinopterygii	Ribbon Eel
+Actinopterygii	Rockfish
+Actinopterygii	Salmon
+Actinopterygii	Sardines
+Actinopterygii	Scorpion Fish
+Actinopterygii	Sea Dragon
+Actinopterygii	Seahorse
+Actinopterygii	Silver Dollar
+Actinopterygii	Skipjack Tuna
+Actinopterygii	Spotted Gar
+Actinopterygii	Squirrelfish
+Actinopterygii	Sturgeon
+Actinopterygii	Sucker Fish
+Actinopterygii	Swai Fish
+Actinopterygii	Tang
+Actinopterygii	Tarpon
+Actinopterygii	Telescope Fish
+Actinopterygii	Tetra
+Actinopterygii	Toadfish
+Actinopterygii	Trout
+Actinopterygii	Tuna
+Actinopterygii	Walking Catfish
+Actinopterygii	Walleye Fish
+Actinopterygii	Wels Catfish
+Actinopterygii	Wolf Eel
+Actinopterygii	Wolffish
+Actinopterygii	Wrasse
+Actinopterygii	X-Ray Tetra
+Actinopterygii	Yellowfin Tuna
+Actinopterygii	Zebra Pleco
+plants	Herbs
+plants	Shrubs
+plants	Trees
+plants	Climbers
+plants	Creepers
+creepers	Moneyplant
+creepers	Star Jasmine
+creepers	Rangoon Creeper
+creepers	Flame Vine
+creepers	Morning Glory
+creepers	Butterfly Pea
+creepers	Allamanda
+creepers	Curtain Plant
+creepers	Bengal Clock Plant
+creepers	Passion Flower Vine
+creepers	Climbing Rose
+creepers	Senecio Wax Ivy Plant
+creepers	Philodendron heartleaf
+creepers	Cypress Vine
+creepers	Firecracker Vine
+creepers	Caroline Jessamine
+creepers	Chocolate vines
+creepers	Strawberry
+creepers	Bignonia
+creepers	Watermelon
+creepers	Pumpkin
+creepers	Parthenocissus Henryana
+creepers	Trachelospermum jasminoides
+creepers	Virginia creeper
+creepers	Allamanda blanchetii
+creepers	Ivy creeper
+creepers	Pyrostegia venusta
+creepers	Mandevilla
+creepers	Aparajita
+creepers	Cardinal climber
+creepers	Creeping jenny
+creepers	Creeping thyme
+creepers	Creeping myrtle
+creepers	Japanese spurge
+creepers	Creeping junipers
+creepers	Angelina stonecrop
+climbers	scrambling plants
+climbers	twinning climbers
+climbers	tendril climbers
+climbers	clinging climbers
+clinging climbers	English Ivy
+clinging climbers	Boston Ivy
+clinging climbers	Climbing Hydrangea
+clinging climbers	Virginia Creeper
+twinning climbers	Wisteria
+twinning climbers	Honeysuckle
+twinning climbers	Hop Vine
+twinning climbers	Akebia
+twinning climbers	Dutchman’s Pipe
+tendril climbers	Clematis
+tendril climbers	Passionflower
+tendril climbers	Grape Vine
+tendril climbers	Sweet Peas
+scrambling plants	Climbing Roses
+scrambling plants	Rambling Roses
+scrambling plants	Brambles
+scrambling plants	Bougainvillaea
+trees	acacia
+trees	akee
+trees	alder
+trees	almond
+trees	aloe
+trees	angophora
+trees	Antarctic beech
+trees	apple
+trees	apricot
+trees	ash
+trees	aspen
+trees	balsa
+trees	banana
+trees	bangalay or bastard mahogany
+trees	bangalow (palm) or piccabean
+trees	banyalla or tallowwood
+trees	banyan
+trees	baobab or boab
+trees	bat's wing coral-tree
+trees	bay
+trees	beech
+trees	beefwood
+trees	belah, belar, billar, or black oak
+trees	berrigan or bitterbush
+trees	bimble box
+trees	birch
+trees	bitterbark
+trees	black bean or Moreton Bay chestnut
+trees	blackbutt
+trees	black pine or matai
+trees	black wattle
+trees	blackwood or mudgerabah
+trees	blanket-leaf
+trees	bloodwood
+trees	bonsai
+trees	boree
+trees	bottle tree
+trees	boxwood
+trees	brigalow
+trees	bunya or bunya-bunya (pine)
+trees	burrawang or zamia
+trees	butternut
+trees	cabbage tree (palm)
+trees	cacao
+trees	cadagi or cadaga
+trees	cajuput or cajeput
+trees	camphor laurel
+trees	carob
+trees	cashew
+trees	cassia
+trees	casuarina or native oak
+trees	cedar
+trees	cedar of Lebanon
+trees	celery pine or celery-top pine
+trees	cherry
+trees	chestnut
+trees	cinnamon
+trees	citrus
+trees	coachwood
+trees	coco
+trees	coolabah or coolibah
+trees	coral tree
+trees	cork oak
+trees	corkwood or cork tree
+trees	cypress
+trees	date palm
+trees	deal
+trees	dogwood
+trees	Douglas fir
+trees	ebony
+trees	elder
+trees	elm
+trees	eucalyptus or eucalypt
+trees	eumung or eumong
+trees	fig
+trees	fir
+trees	firewheel tree
+trees	flame tree or Illawarra flame tree
+trees	flooded gum
+trees	ghost gum
+trees	gidgee or stinking wattle
+trees	golden wattle
+trees	grapefruit
+trees	grasstree or black boy
+trees	grey gum
+trees	ground ash
+trees	ground oak
+trees	guava
+trees	gum (tree)
+trees	gympie
+trees	hawthorn
+trees	hazel
+trees	hemlock
+trees	hickory
+trees	holly
+trees	hoop pine
+trees	hornbeam
+trees	horse chestnut
+trees	huon pine
+trees	ilex
+trees	ironbark
+trees	iron gum
+trees	ironwood
+trees	jacaranda
+trees	jarrah
+trees	Judas tree
+trees	juniper
+trees	karri
+trees	kauri
+trees	kentia palm
+trees	kurrajong or currajong
+trees	laburnum
+trees	larch
+trees	laurel
+trees	lemon
+trees	lilac
+trees	lilly pilly or lilli pilli
+trees	lime
+trees	lind
+trees	linden
+trees	lotus
+trees	macrocarpa
+trees	magnolia
+trees	mahogany
+trees	mallee
+trees	mango
+trees	mangrove
+trees	manuka, kahikatoa, or kanuka
+trees	maple
+trees	marri
+trees	melaleuca
+trees	mimosa
+trees	monkey puzzle or Chile pine
+trees	Moreton Bay fig
+trees	mountain ash
+trees	mugga
+trees	mulberry
+trees	myall
+trees	Norfolk Island pine
+trees	nutmeg
+trees	oak
+trees	olive
+trees	orange
+trees	osier
+trees	palm
+trees	papaya
+trees	paperbark
+trees	pawpaw or papaw
+trees	peach
+trees	pear
+trees	peppermint gum
+trees	persimmon
+trees	pine
+trees	plane
+trees	plum
+trees	pomegranate
+trees	poplar
+trees	pussy willow
+trees	quandong or quondong
+trees	quince
+trees	raffia
+trees	redwood
+trees	rivergum or river red gum
+trees	rosewood
+trees	rowan
+trees	sandalwood
+trees	sassafras
+trees	Scots fir
+trees	Scots pine
+trees	scribbly gum
+trees	sequoia
+trees	silky oak
+trees	silver birch
+trees	snow gum
+trees	spotted gum
+trees	spruce
+trees	stinging tree or gympie nettle
+trees	stringy-bark
+trees	sycamore
+trees	tamarind
+trees	Tasmanian blue gum
+trees	teak
+trees	tea-tree
+trees	umbrella tree
+trees	walnut
+trees	wandoo
+trees	wattle
+trees	weeping willow
+trees	white ash
+trees	whitebeam
+trees	wilga
+trees	willow
+trees	wirilda
+trees	witch
+trees	witch elm
+trees	yellow box
+trees	yew
+trees	ylang-ylang
+trees	yucca
+shrubs	Abelia
+shrubs	Actinidia
+shrubs	Aloe
+shrubs	Aralia
+shrubs	Arctostaphylos
+shrubs	Aronia
+shrubs	Artemisia
+shrubs	Aucuba
+shrubs	Berberis
+shrubs	Bougainvillea
+shrubs	Brugmansia
+shrubs	Buddleja
+shrubs	Buxus
+shrubs	Calia
+shrubs	Callicarpa
+shrubs	Callistemon
+shrubs	Calluna
+shrubs	Calycanthus
+shrubs	Camellia
+shrubs	Caragana
+shrubs	Carpenteria
+shrubs	Caryopteris
+shrubs	Cassiope
+shrubs	Ceanothus
+shrubs	Celastrus
+shrubs	Ceratostigma
+shrubs	Cercocarpus
+shrubs	Chaenomeles
+shrubs	Chamaebatiaria
+shrubs	Chamaedaphne
+shrubs	Chimonanthus
+shrubs	Chionanthus
+shrubs	Choisya
+shrubs	Cistus
+shrubs	Clerodendrum
+shrubs	Clethra
+shrubs	Clianthus
+shrubs	Colletia
+shrubs	Colutea
+shrubs	Comptonia
+shrubs	Cornus
+shrubs	Corylopsis
+shrubs	Cotinus
+shrubs	Cotoneaster
+shrubs	Cowania
+shrubs	Crataegus
+shrubs	Crinodendron
+shrubs	Cytisus
+shrubs	Daboecia
+shrubs	Danae
+shrubs	Daphne
+shrubs	Decaisnea
+shrubs	Dasiphora
+shrubs	Dendromecon
+shrubs	Desfontainea
+shrubs	Deutzia
+shrubs	Diervilla
+shrubs	Dipelta
+shrubs	Dirca
+shrubs	Dracaena
+shrubs	Drimys
+shrubs	Dryas
+shrubs	Elaeagnus
+shrubs	Embothrium
+shrubs	Empetrum
+shrubs	Enkianthus
+shrubs	Ephedra
+shrubs	Epigaea
+shrubs	Erica
+shrubs	Eriobotrya
+shrubs	Escallonia
+shrubs	Eucryphia
+shrubs	Euonymus
+shrubs	Exochorda
+shrubs	Fabiana
+shrubs	Fallugia
+shrubs	Fatsia
+shrubs	Forsythia
+shrubs	Fothergilla
+shrubs	Franklinia
+shrubs	Fremontodendron
+shrubs	Fuchsia
+shrubs	Garrya
+shrubs	Gaultheria
+shrubs	Gaylussacia
+shrubs	Genista
+shrubs	Gordonia
+shrubs	Grevillea
+shrubs	Griselinia
+shrubs	Hakea
+shrubs	Halesia
+shrubs	Halimium
+shrubs	Hamamelis
+shrubs	Hebe
+shrubs	Hedera
+shrubs	Helianthemum
+shrubs	Hibiscus
+shrubs	Hippophae
+shrubs	Hoheria
+shrubs	Holodiscus
+shrubs	Hudsonia
+shrubs	Hydrangea
+shrubs	Hypericum
+shrubs	Hyssopus
+shrubs	Ilex
+shrubs	Illicium
+shrubs	Indigofera
+shrubs	Itea
+shrubs	Jamesia
+shrubs	Jasminum
+shrubs	Juniperus
+shrubs	Kalmia
+shrubs	Kerria
+shrubs	Kolkwitzia
+shrubs	Lagerstroemia
+shrubs	Lapageria
+shrubs	Lantana
+shrubs	Lavandula
+shrubs	Lavatera
+shrubs	Ledum
+shrubs	Leitneria
+shrubs	Lespedeza
+shrubs	Leptospermum
+shrubs	Leucothoe
+shrubs	Leycesteria
+shrubs	Ligustrum
+shrubs	Lindera
+shrubs	Linnaea
+shrubs	Lonicera
+shrubs	Lupinus
+shrubs	Lycium
+shrubs	Magnolia
+shrubs	Mahonia
+shrubs	Malpighia
+shrubs	Menispermum
+shrubs	Menziesia
+shrubs	Mespilus
+shrubs	Microcachrys
+shrubs	Myrica
+shrubs	Myricaria
+shrubs	Myrtus
+shrubs	Neillia
+shrubs	Nerium
+shrubs	Olearia
+shrubs	Osmanthus
+shrubs	Pachysandra
+shrubs	Paeonia
+shrubs	Perovskia
+shrubs	Philadelphus
+shrubs	Phlomis
+shrubs	Photinia
+shrubs	Physocarpus
+shrubs	Pieris
+shrubs	Pistacia
+shrubs	Pittosporum
+shrubs	Plumbago
+shrubs	Polygala
+shrubs	Poncirus
+shrubs	Prunus
+shrubs	Purshia
+shrubs	Pyracantha
+shrubs	Quassia
+shrubs	Quercus
+shrubs	Quillaja
+shrubs	Quintinia
+shrubs	Rhamnus
+shrubs	Rhododendron
+shrubs	Rhus
+shrubs	Ribes
+shrubs	Romneya
+shrubs	Rosa
+shrubs	Rosmarinus
+shrubs	Rubus
+shrubs	Ruta
+shrubs	Sabia
+shrubs	Salix
+shrubs	Salvia
+shrubs	Sambucus
+shrubs	Santolina
+shrubs	Sapindus
+shrubs	Senecio
+shrubs	Simmondsia
+shrubs	Skimmia
+shrubs	Smilax
+shrubs	Sophora
+shrubs	Sorbaria
+shrubs	Spartium
+shrubs	Spiraea
+shrubs	Staphylea
+shrubs	Stephanandra
+shrubs	Styrax
+shrubs	Symphoricarpos
+shrubs	Syringa
+shrubs	Tamarix
+shrubs	Taxus
+shrubs	Telopea
+shrubs	Thymelaea
+shrubs	Thymus
+shrubs	Trochodendron
+shrubs	Ulex
+shrubs	Ungnadia
+shrubs	Vaccinium
+shrubs	Verbena
+shrubs	Viburnum
+shrubs	Vinca
+shrubs	Viscum
+shrubs	Weigela
+shrubs	Xanthoceras
+shrubs	Xanthorhiza
+shrubs	Xylosma
+shrubs	Yucca
+shrubs	Zanthoxylum
+shrubs	Zauschneria
+shrubs	Zenobia
+shrubs	Ziziphus
+herbs	Aloe Vera
+herbs	Anise
+herbs	Arnika
+herbs	Astralagus
+herbs	Basil
+herbs	Bay
+herbs	Bayberry
+herbs	Bee balm
+herbs	Borage
+herbs	Burnet
+herbs	California bay
+herbs	Calamint
+herbs	Calendula
+herbs	Caraway
+herbs	Catnip
+herbs	Cayenne
+herbs	Chamomile
+herbs	Chervil
+herbs	Chives
+herbs	Cicely
+herbs	Cilantro
+herbs	Comfrey
+herbs	Coriander-blair
+herbs	Costmary
+herbs	Cotula
+herbs	Cuban Oregano
+herbs	Dill
+herbs	Dittany of Crete
+herbs	Epazote
+herbs	Fennel
+herbs	Feverfew
+herbs	Foxglove
+herbs	Garlic
+herbs	Geraniums
+herbs	Germander
+herbs	Ginger
+herbs	Gingko Biloba
+herbs	Ginseng
+herbs	Golden Rod
+herbs	Horehound
+herbs	Horseradish
+herbs	Hyssop
+herbs	Heartease
+herbs	Laurel
+herbs	Lavender
+herbs	Lemon Balm
+herbs	Lemon verbena
+herbs	Lemongrass
+herbs	Licorice Root
+herbs	Lovage
+herbs	Lungwort
+herbs	Marjoram
+herbs	Milk Thistle
+herbs	Mint
+herbs	Mugwort
+herbs	Mullein
+herbs	Myrtle Plant
+herbs	Nasturtium
+herbs	Nettle
+herbs	Nosegays
+herbs	Oregano
+herbs	Parsley
+herbs	Patchouli
+herbs	Pennyroyal
+herbs	Peppermint
+herbs	Rosemary
+herbs	Rue
+herbs	St Johns Wort
+herbs	Saffron
+herbs	Sage
+herbs	Savory
+herbs	Scullcap
+herbs	Sorrel
+herbs	Southernwood
+herbs	Stevia
+herbs	Sweet bay
+herbs	Sweet cicely
+herbs	Sweet Grass
+herbs	Sweet woodruff
+herbs	Tansy
+herbs	Tarragon
+herbs	Thyme
+herbs	Tulsi
+herbs	Turmeric
+herbs	Valerian
+herbs	Vitex
+herbs	Witch Hazel
+herbs	Woodruff
+herbs	Wormwood
+herbs	Yarrow
+herbs	Zedoary
